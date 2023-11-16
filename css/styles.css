@@ -25,7 +25,7 @@ body {
 .avatar-card {
   width: 100%;
 
-  border: 1px solid #e3e3e3;
+  border: 1px solid #5c3cbd;
   border-radius: 1em;
   display: flex;
   flex-direction: column;
@@ -33,6 +33,14 @@ body {
   align-items: center;
   margin: 1%;
   padding: 1em;
+  
+}
+
+.avatar-card {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+  color: green;
+  
 }
 
 .avatar-image {
